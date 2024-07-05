@@ -59,6 +59,7 @@
     <PackageReference Include="OpenTelemetry.Instrumentation.StackExchangeRedis" Version="1.0.0-rc9.12" />
     <PackageReference Include="OpenTelemetry.Instrumentation.Wcf" Version="1.0.0-rc.13" />
     <PackageReference Include="System.Drawing.Common" Version="4.7.2" />
+    <PackageReference Include="System.Security.Cryptography.Xml" Version="4.7.1" />
   </ItemGroup>
 
   <!-- Non-stable instrumentation packages with dependencies, only .NET -->
